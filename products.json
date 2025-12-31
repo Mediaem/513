@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Custom Digital Oil Portrait",
+        "price": 120.00,
+        "description": "High-fidelity digital painting in classical oil style. Perfect for gifts.",
+        "image": "https://loremflickr.com/500/400/oilpainting,portrait/all"
+    },
+    {
+        "id": 2,
+        "name": "Minimalist Brand Logo",
+        "price": 250.00,
+        "description": "Vector-based minimalist logo design for startups and small businesses.",
+        "image": "https://loremflickr.com/500/400/logo,minimalist/all"
+    },
+    {
+        "id": 3,
+        "name": "Cyberpunk Stream Overlay",
+        "price": 45.00,
+        "description": "Neon-themed animated overlays for Twitch/YouTube streamers.",
+        "image": "https://loremflickr.com/500/400/neon,cyberpunk/all"
+    },
+    {
+        "id": 4,
+        "name": "Watercolor Pet Illustration",
+        "price": 85.00,
+        "description": "Heartwarming watercolor style drawing of your cat, dog, or pet.",
+        "image": "https://loremflickr.com/500/400/watercolor,pet/all"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy RPG Map",
+        "price": 150.00,
+        "description": "Detailed world map for D&D campaigns or fantasy novels.",
+        "image": "https://loremflickr.com/500/400/map,fantasy/all"
+    },
+    {
+        "id": 6,
+        "name": "Podcast Cover Art",
+        "price": 90.00,
+        "description": "Eye-catching cover art optimized for Spotify and Apple Podcasts.",
+        "image": "https://loremflickr.com/500/400/podcast,microphone/all"
+    },
+    {
+        "id": 7,
+        "name": "3D Character Model (Rigged)",
+        "price": 450.00,
+        "description": "Game-ready 3D character with basic rigging for animation.",
+        "image": "https://loremflickr.com/500/400/3drender,character/all"
+    },
+    {
+        "id": 8,
+        "name": "Anime Style Avatar",
+        "price": 60.00,
+        "description": "Custom profile picture in modern anime style for social media.",
+        "image": "https://loremflickr.com/500/400/anime,manga/all"
+    },
+    {
+        "id": 9,
+        "name": "Website UI Mockup",
+        "price": 200.00,
+        "description": "Professional landing page design layout (Figma/Adobe XD source).",
+        "image": "https://loremflickr.com/500/400/webdesign,ui/all"
+    },
+    {
+        "id": 10,
+        "name": "Pixel Art Sprite Sheet",
+        "price": 40.00,
+        "description": "Retro game character sprites with walk and idle cycles.",
+        "image": "https://loremflickr.com/500/400/pixelart,game/all"
+    },
+    {
+        "id": 11,
+        "name": "Book Cover Illustration",
+        "price": 300.00,
+        "description": "Full jacket design for fantasy, sci-fi, or mystery novels.",
+        "image": "https://loremflickr.com/500/400/bookcover,fantasy/all"
+    },
+    {
+        "id": 12,
+        "name": "NFT Collection Base",
+        "price": 180.00,
+        "description": "Base character design with 3 trait variations for generative art.",
+        "image": "https://loremflickr.com/500/400/digitalart,nft/all"
+    }
+]
